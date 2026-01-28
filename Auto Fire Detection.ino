@@ -8,8 +8,8 @@
 
 // Wi-Fi credentials
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Vamshi's A55 5g";
-char pass[] = "jvkrog26";
+char ssid[] = " A55 5g";
+char pass[] = "26";
 
 // Pins
 #define flameSensor D1
